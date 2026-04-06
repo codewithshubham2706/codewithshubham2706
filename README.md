@@ -5,10 +5,6 @@
 
 I enjoy learning by creating real-world applications that improve my problem-solving skills and deepen my understanding of programming fundamentals, APIs, and user experience.
 
----
-## 🚀 What I'm Currently Working On
-
-on different projects
 
 
 ## 🎯 Learning Goals
